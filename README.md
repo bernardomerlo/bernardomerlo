@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Sobre Mim:
 Estou estudando Ciencia da Computação na FAESA<br>Foco em Java<br>
 
 
