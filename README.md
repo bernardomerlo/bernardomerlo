@@ -1,5 +1,5 @@
 # Sobre Mim:
-Estou estudando Ciencia da Computação na FAESA<br>Foco em Java<br>
+Estou estudando Ciencia da Computação na FAESA 3º período
 
 
 ## 🌐 Socials:
